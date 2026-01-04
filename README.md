@@ -110,7 +110,7 @@ hugo
 For local development run Hugo's built-in local server.
 
 ```
-hugo server
+hugo server -D --baseURL="http://localhost:1313/" --bind="0.0.0.0"
 ```
 
 Now enter [`localhost:1313`](http://localhost:1313) in the address bar of your browser.
