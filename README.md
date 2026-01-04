@@ -24,7 +24,7 @@ Serif is a modern business theme for Hugo. It contains multiple content types an
 - Configure Google fonts from `config.toml`
 - Configure primary theme colors from `config.toml`
 - Examples of using Params from the `config.toml` as SCSS variables
-
+- Updates
 **Speed**
 
 - 100/100 Google Lighthouse speed score
