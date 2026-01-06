@@ -1,0 +1,22 @@
+baseURL = "/"
+languageCode = "zh-cn"
+title = "实验室材料销售中心"
+theme = "hugo-serif-theme"
+
+[params]
+  footer_copyright = "© 2026 实验室材料有限公司 版权所有"
+
+[[menu.main]]
+    name = "产品中心"
+    url = "/products"
+    weight = 1
+
+[[menu.main]]
+    name = "关于我们"
+    url = "/about"
+    weight = 2
+
+[[menu.main]]
+    name = "联系我们"
+    url = "/contact"
+    weight = 3
